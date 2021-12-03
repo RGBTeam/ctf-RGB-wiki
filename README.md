@@ -6,5 +6,5 @@
 
 ## 组织形式
 
-markdown格式的wiki内容请上传至wiki仓库，代码、图片类上传至本仓库。
-Typro提供设置图片路径的功能，可以实现本地图片阅览的时候采用本地路径，详情见: https://github.com/Thobian/typora-plugins-win-img/issues/7
+- markdown格式的wiki内容请上传至wiki仓库，代码、图片类上传至本仓库。
+- Typro提供设置图片路径的功能，可以实现本地图片阅览的时候采用本地路径，详情见: https://github.com/Thobian/typora-plugins-win-img/issues/7
