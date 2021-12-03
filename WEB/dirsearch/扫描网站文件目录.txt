@@ -1,0 +1,18 @@
+python3.7 dirsearch.py 192.168.8.103:8080
+
+
+
+使用
+-u 指定url
+
+-e 指定网站语言
+
+-w 可以加上自己的字典（带上路径）
+
+-r 递归跑（查到一个目录后，在目录后在重复跑，很慢，不建议用）
+
+进入dirsearch目录后
+
+执行./dirsearch.py -u 127.0.0.1 -e php类似的目录，这里我们使用
+
+python3.7 dirsearch.py -u http://71f04e34-1537-41f0-8c4f-e3de12f432b9.node3.buuoj.cn -e php
